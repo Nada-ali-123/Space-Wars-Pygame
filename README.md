@@ -7,7 +7,7 @@
 <p>An interpretation of Space Invaders.</p>
 
 
-### **The idea and other unsatisfactory attempts:**
+### **The idea:**
 <p>I actually made this just to practice and learn more tricks with Pygame.</p>
 
 ---
